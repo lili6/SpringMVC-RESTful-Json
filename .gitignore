@@ -1,0 +1,21 @@
+*.class
+*.log
+*.swp
+*.bak
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+*.zip
+*.lnk
+
+# Project Dirs #
+.classpath
+.project
+.settings
+target
+build
+temp
+bin
+.idea
